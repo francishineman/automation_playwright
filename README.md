@@ -52,4 +52,4 @@ pytest --headed --browser=chromium
 
 ## Example Test Run
 
-The included test_example.py will run two automated tests against the Playwright documentation site, testing the search functionality using the configured fixtures.
+The base_test_case.py will run two automated tests against the Playwright documentation site, testing the search functionality using the configured fixtures.
